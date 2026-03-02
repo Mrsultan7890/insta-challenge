@@ -1,6 +1,6 @@
 import socket
 
-target = "unkn.com"
+target = "google.com"
 
 ports = [80, 443,  21, 22, 8080]
 
